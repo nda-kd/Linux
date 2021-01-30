@@ -26,8 +26,9 @@ sudo pacman -S qtile
 ```
 sudo pacman -S zsh (for ArchLinux)
 ```
-
-```If you want to try mine you need to save them on your system with $ git clone https://github.com/nda-kd/Linux.git<br/>
+#### My custom dotfile:
+```
+If you want to try mine you need to save them on your system with $ git clone https://github.com/nda-kd/Linux.git<br/>
 and then copy Qtile folder in /home/user/.config and .zshrc in /home/user
 ``` 
 <br/><br/><br/>
