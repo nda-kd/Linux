@@ -16,11 +16,10 @@ I think as a Front-end developer I have a thing for themes and customization :re
 
 
 ### Installation on Arch Linux:
-* Qtile:
+* [Qtile](http://www.qtile.org/):
 ```
 sudo pacman -S qtile
 ```
-[Qtile site for its documentation](http://www.qtile.org/)
 
 * Zsh:
 ```
