@@ -31,5 +31,5 @@ sudo pacman -S zsh
 If you want to try mine you need to save them on your system with $ git clone https://github.com/nda-kd/Linux.git
 and then copy Qtile folder in /home/user/.config and .zshrc in /home/user
 ``` 
-<br/><hr\>
+<br/>
 I hope you find it useful :slightly_smiling_face:
