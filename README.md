@@ -15,7 +15,7 @@ I think as a Front-end developer I have a thing for themes and customization :re
 <img src="qtile/Screenshot from 2020-05-29 18-57-05.png" width="800" height="400">
 
 
-### Installation:
+### Installation on Arch Linux:
 * Qtile:
 ```
 sudo pacman -S qtile
@@ -24,7 +24,7 @@ sudo pacman -S qtile
 
 * Zsh:
 ```
-sudo pacman -S zsh (for ArchLinux)
+sudo pacman -S zsh 
 ```
 * My custom dotfile:
 ```
