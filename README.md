@@ -14,7 +14,7 @@ I think as a Front-end developer I have a thing for themes and customization :re
 <img src="qtile/Screenshot from 2020-05-29 18-57-05.png" width="800" height="400">
 
 ```
-if you want to try mine you need to save them on your system with $ git clone https://github.com/nda-kd/Linux.git ,
+If you want to try mine you need to save them on your system with *** $ git clone https://github.com/nda-kd/Linux.git ***
 and then copy Qtile folder in /home/user/.config and .zshrc in /home/user  
 ```
 I hope you find it useful :slightly_smiling_face:
