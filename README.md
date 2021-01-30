@@ -10,7 +10,7 @@ I think as a Front-end developer I have a thing for themes and customization :re
 
 
 
-  ### This is my Linux btw :upside_down_face: 
+  ### This is how my Linux look like btw :upside_down_face: 
 
 <img src="qtile/Screenshot from 2020-05-29 18-57-05.png" width="800" height="400">
 
