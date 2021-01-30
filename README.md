@@ -1,4 +1,5 @@
-# customized Dotfiles
+# Linux
+### customized Dotfiles
 
 I migrated to Linux a year ago from Windows, I can't say how much I wish I had done it sooner. it's amazing and very useful :heart_eyes: <br/>
 some may say it's complicated and it's not worth the trouble of learning beacause it's true that there's a lot to learn and memorize but as a coder I love a good challenge. And at the end of the day you have your own custom operating system, doesn't it sound great? and also you will learn more and deeper about what the heck is going on in your system. everything you have on your computer is what you choose to have.<br/>
