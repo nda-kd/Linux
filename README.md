@@ -23,7 +23,7 @@ sudo pacman -S qtile
 
 * Zsh:
 ```
-sudo pacman -S zsh 
+sudo pacman -S zsh zsh-theme-powerlevel9k 
 ```
 #### My custom dotfile
 ```
