@@ -6,7 +6,7 @@ some may say it's complicated and it's not worth the trouble of learning beacaus
 One of my favorite things about Linux is Windows managers (WMs).<br/>
 They are very fascinating and very useful. I really like them, I may have just tried some of them but when I came across Qtile, I kind of fell in love with it.<br/>
 And there's the ZSH, also called the Z shell, with plenty of new features, and support for plugins and themes. yay!<br/>
-I think as a Front-end developer I have a thing for themes and customization :relaxed: Just try your own experience I hope you find it as amazing as I found it.<br/>
+I think as a Front-end developer I have a thing for themes and customization :relaxed: Just start your own experience I hope you find it as amazing as I found it.<br/>
 
 
 
