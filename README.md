@@ -23,8 +23,13 @@ sudo pacman -S qtile
 
 * Zsh:
 ```
-sudo pacman -S zsh zsh-theme-powerlevel9k 
+sudo pacman -S zsh zsh-theme-powerlevel9k wget
 ```
+* oh.my.zsh:
+```
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
+```
+
 #### My custom dotfile
 ```
 If you want to try mine you need to save them on your system with $ git clone https://github.com/nda-kd/Linux.git
