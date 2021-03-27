@@ -33,7 +33,7 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 #### My custom dotfile
 
 After installing you can custom your dotfile but if you want to try mine you need to save them on your system <br/>
-with $ git clone ###### https://github.com/nda-kd/Linux.git   <br/>
+with $ git clone ###### [https://github.com/nda-kd/Linux.git]   <br/>
 and then copy Qtile folder in /home/YOUR_USER_NAME/.config and .zshrc in /home/YOUR_USER_NAME
 
 <br/>
